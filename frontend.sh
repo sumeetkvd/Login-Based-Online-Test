@@ -5,6 +5,7 @@
 USER_DB="./users.db"
 
 # --- GLOBAL VAR DECLARATION OVER ---
+
 # --- main_screen def start ---
 
 main_screen () {
